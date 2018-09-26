@@ -1,0 +1,8 @@
+gato
+perro
+elefante
+
+tigre
+puma
+tigre
+puma
